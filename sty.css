@@ -1,3 +1,9 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
 @media(min-width: 311px )
 {
 .wewe{position: relative;
@@ -56,6 +62,7 @@ letter-spacing: -0.02em;
 color: #FFFCFC;
 }
 .main{display: flex;}
+
 .box1{position: absolute;
     width: 107px;
     height: 107px;
