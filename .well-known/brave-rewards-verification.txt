@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: musicfi.netlify.app
+Token: 97862466cb78584c45ea9160e7f2818d6fd0be8a1eaf5317afeace2c545ef017
